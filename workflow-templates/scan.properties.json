@@ -1,5 +1,18 @@
 {
-  "name": "Debricked GitHub Actions",
-  "description": "Use this workflow template as a basis for integrating Debricked into your GitHub workflows.\nIf you need additional assistance with configuration feel free to contact us via chat or email at support@debricked.com. To learn more about Debricked or contact our team, visit https://debricked.com/",
-  "iconName": "debricked_logo"
+  "name": "Debricked",
+  "description": "Integrate with Debricked's state of the art AI-powered Software Composition Analysis to automate your security.",
+  "iconName": "debricked",
+  "categories": [
+    "Code Scanning",
+    "Python",
+    "JavaScript",
+    "Java",
+    "PHP",
+    "Ruby",
+    "Go",
+    "Rust",
+    "Swift",
+    "C#",
+    "Objective-C"
+  ]
 }
