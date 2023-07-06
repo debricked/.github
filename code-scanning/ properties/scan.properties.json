@@ -1,5 +1,6 @@
 {
   "name": "Debricked",
+  "creator": "Debricked",
   "description": "Integrate with Debricked's state of the art AI-powered Software Composition Analysis to automate your security.",
   "iconName": "debricked",
   "categories": [
